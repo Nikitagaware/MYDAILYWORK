@@ -1,0 +1,12 @@
+This project is a simple web-based quiz application built using HTML, CSS, and JavaScript. It features a start screen, a question 
+display area with a timer, and a score display upon completion.
+
+Features
+Start screen to initiate the quiz
+Timed questions
+Display of current question number and total questions
+Navigation to the next question
+Score display at the end of the quiz
+Restart option to retake the quiz
+Getting Started
+Follow these instructions to get a copy of the project up and running on your local machine.
